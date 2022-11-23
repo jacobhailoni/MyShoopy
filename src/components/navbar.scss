@@ -1,0 +1,23 @@
+nav{
+    height: 9.25%;
+    .container{
+        .navbar-brand{
+            color: #FF6C18;
+            font-size: 36px;
+        }      
+
+    }
+  
+
+}
+.nav-Link{
+    color: #000000;
+}
+.nav-Link:hover{
+    border-bottom: #FF6C18 solid 2px;
+    text-decoration: none;
+    color: #000000;
+}
+.nav-Link.active{
+    border-bottom: #FF6C18 solid 2px;
+}
